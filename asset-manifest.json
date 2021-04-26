@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/www.balajiindus.in/static/js/main.d42717d8.chunk.js",
+    "main.js.map": "/www.balajiindus.in/static/js/main.d42717d8.chunk.js.map",
+    "runtime-main.js": "/www.balajiindus.in/static/js/runtime-main.1ba28262.js",
+    "runtime-main.js.map": "/www.balajiindus.in/static/js/runtime-main.1ba28262.js.map",
+    "static/js/2.ad172474.chunk.js": "/www.balajiindus.in/static/js/2.ad172474.chunk.js",
+    "static/js/2.ad172474.chunk.js.map": "/www.balajiindus.in/static/js/2.ad172474.chunk.js.map",
+    "index.html": "/www.balajiindus.in/index.html",
+    "static/js/2.ad172474.chunk.js.LICENSE.txt": "/www.balajiindus.in/static/js/2.ad172474.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ba28262.js",
+    "static/js/2.ad172474.chunk.js",
+    "static/js/main.d42717d8.chunk.js"
+  ]
+}
